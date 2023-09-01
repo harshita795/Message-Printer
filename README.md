@@ -13,7 +13,7 @@ The command for clone is :-
 
 ```git clone 'url of this repo'.```
 
-You can copy the url of this repo from the **code** section button.
+You can copy the **url** of this repo from the **code** section button.
 
 After cloning you get all the files on your local machine such as on VS Code if you are using that or any others.
 
